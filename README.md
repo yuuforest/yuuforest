@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JAVA & Data Structure & Algorithm  
   
-##### Languages and Tools :
+#### Languages and Tools :
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  
 ![VScode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
   
