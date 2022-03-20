@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  
 ![VScode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
 
-<a href="https://github.com/yurrim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yurrim&show_icons=true" alt="yurrim's github stats" /></a>
-<a href="https://github.com/yurrim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurrim&langs_count=5" /></a>
+<a href="https://github.com/yurrim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yurrim&show_icons=true" alt="yurrim's github stats" /></a> <a href="https://github.com/yurrim"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurrim&langs_count=5" /></a>
