@@ -6,6 +6,10 @@
   
 🌱 파릇파릇 매일 잔디 심기 도전 중 🌱
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuforest&layout=compact)](https://github.com/yuuforest/github-readme-stats)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuuforest)](https://solved.ac/yuuforest)-->
+
 </div>
 
 <!-- ### 🌈 기술스택
@@ -62,8 +66,3 @@
 
 
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuforest&layout=compact)](https://github.com/yuuforest/github-readme-stats)
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuuforest)](https://solved.ac/yuuforest)-->
