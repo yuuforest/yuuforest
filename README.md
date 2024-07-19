@@ -10,9 +10,9 @@
 
 2023.04 ~ 2023.05 (6주) [서비스 모듈화 설계 (MSA)로 구현한 야구 생중계 서비스](https://github.com/yuuforest/BacktoBack)<br>
 
-2023.02 ~ 2023.04 (6주) [AI 기반 향수 취향 분석 서비스](https://github.com/yuuforest/InCense)
+2023.02 ~ 2023.04 (6주) [향수 취향 분석 서비스](https://github.com/yuuforest/InCense)
 
-2023.01 ~ 2023.02 (6주) [WebRTC 기반 인터뷰 진행 및 결과 편집 서비스](https://github.com/yuuforest/Intube)
+2023.01 ~ 2023.02 (6주) [인터뷰 진행 및 결과 편집 서비스](https://github.com/yuuforest/Intube)
 
 2021.09 ~ 2021.12 (3개월) [온라인 화상 면접 연습 시스템](https://github.com/yuuforest/2021-GraduationProject)
 
